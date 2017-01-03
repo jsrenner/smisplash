@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "NewSite-12-21_1228",
+    "name": "SMI Advisory Splash",
     "currentPage": "index.html",
     "theme": {
       "name": "unicore",
@@ -17,8 +17,13 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 22,
-    "versionPublish": "3.10.4"
+    "uniqCompNum": 34,
+    "versionPublish": "3.10.5",
+    "favicon": "",
+    "noImageResize": "",
+    "scrollAnimation": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -32,11 +37,6 @@
       },
       "components": [
         {
-          "alias": "unicore/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "pricing-table1",
           "_params": {
             "showTitle": true,
             "showText": true,
@@ -46,7 +46,7 @@
             "paddingTop": "3",
             "paddingBottom": "4",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1459287548155-43ae47657dee-2000x1502-73.jpg",
+            "bgImage": "file:///Users/jonrenner/Library/Application%20Support/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1459287548155-43ae47657dee-2000x1502-73_1.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#8fafc3",
@@ -60,6 +60,7 @@
           },
           "title": "welcome to SMI Advisory Services",
           "text": "Please make a selection below.",
+          "favorite": "Most Popular",
           "title1": "SMI Private Client",
           "text1": "Perfect for small less than 10 team",
           "currency1": "$",
@@ -67,7 +68,6 @@
           "period1": "/ month",
           "list1": "<ul class=\"pricing__feature-list mbr-text-font\"></ul>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn mbr-title-font btn-primary\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
-          "favorite": "Most Popular",
           "title2": "ENTERPRISE",
           "text2": "Perfect for small less than 10 team",
           "currency2": "$",
@@ -89,12 +89,89 @@
           "period4": "/ month",
           "list4": "<ul class=\"pricing__feature-list mbr-text-font\"><li class=\"pricing__feature\">9 GB of space</li><li class=\"pricing__feature\">Support at $25/hour</li><li class=\"pricing__feature\">Small social media</li></ul>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn mbr-title-font btn-primary\">CHOOSE PLAN</a>",
-          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-section--relative mbr-parallax-background\" style=\"background-image: url(@PROJECT_PATH@/assets/images/full-unsplash-photo-1459287548155-43ae47657dee-2000x1502-73.jpg);\">\n    <div class=\"pricing\" id=\"pricing\" style=\"padding-top: 70px; padding-bottom: 300px;\">\n        <div class=\"mbr-overlay\" style=\"opacity: 0.5; background-color: rgb(21, 21, 21);\"></div>\n        <div class=\"container\">\n            <div class=\"section-head-lite text-center col-md-8 col-md-offset-2 space80\">\n                \n                \n                \n                \n                    \n                            <div class=\"mbr-figure\"><img src=\"https://dcktxkaneetr8.cloudfront.net/smifund/smi-crown-mark-white.png\" style=\"width: 100px;\"></div><br><br><br>\n                            \n                      \n                \n                    \n                    \n                    \n                <h1 class=\"mbr-title-font mbr-editable-content\" code-editable-id=\"1260\">welcome to SMI Advisory Services</h1>\n                <p class=\"mbr-editable-content\" code-editable-id=\"1261\">Please make a selection below.</p>\n            </div>\n            <div class=\"row pricing1\">\n                <div class=\"col-md-12\">\n\n                    <!-- Pricing Plan - 1 -->\n                    <div class=\"col-sm-4 price-styles\" style=\"display: block;\">\n                        <div class=\"pricing__item\" data-hover=\"\">\n                            <h3 class=\"pricing__title mbr-title-font mbr-primary-color mbr-editable-content\" style=\"text-align: center;\" code-editable-id=\"1262\">SMI Private Client</h3>\n                            <p class=\"pricing__sentence mbr-editable-content\" code-editable-id=\"1263\">Lorem lean startup ipsum product market fit customer development acquihire technical cofounder. User engagement A/B testing shrink a market venture capital pitch deck.&nbsp;</p>\n                           \n                            <div class=\"mbr-editable-content\" code-editable-id=\"1264\"><ul class=\"pricing__feature-list mbr-text-font\"></ul></div>\n                            <div><a href=\"https://mobirise.com\" class=\"btn mbr-title-font btn-primary mbr-editable-button\" code-editable-id=\"1265\">LEARN MORE</a></div>\n                        </div>\n                    </div>\n\n                    <!-- Pricing Plan - 2 -->\n                    <div class=\"col-sm-4 price-styles\" style=\"display: block;\">\n                       <div class=\"pricing__item\" data-hover=\"\">\n                            <h3 class=\"pricing__title mbr-title-font mbr-primary-color mbr-editable-content\" style=\"text-align: center;\" code-editable-id=\"1266\">smi plan&nbsp;</h3>\n                            <p class=\"pricing__sentence mbr-editable-content\" code-editable-id=\"1267\">Lorem lean startup ipsum product market fit customer development acquihire technical cofounder. User engagement A/B testing shrink a market venture capital pitch deck.&nbsp;</p>\n                           \n                            <div class=\"mbr-editable-content\" code-editable-id=\"1268\"><ul class=\"pricing__feature-list mbr-text-font\"></ul></div>\n                            <div><a href=\"https://mobirise.com\" class=\"btn mbr-title-font btn-primary mbr-editable-button\" code-editable-id=\"1269\">LEARN MORE</a></div>\n                      \n                    </div>\n                    </div>\n\n                    <!-- Pricing Plan - 3 -->\n                    <div class=\"col-sm-4 price-styles\" style=\"display: block;\">\n                        <div class=\"pricing__item\" data-hover=\"\">\n                            <h3 class=\"pricing__title mbr-title-font mbr-primary-color mbr-editable-content\" style=\"text-align: center;\" code-editable-id=\"1270\">SMI funds</h3>\n                            <p class=\"pricing__sentence mbr-editable-content\" code-editable-id=\"1271\">Lorem lean startup ipsum product market fit customer development acquihire technical cofounder. User engagement A/B testing shrink a market venture capital pitch deck.&nbsp;</p>\n                           \n                            <div class=\"mbr-editable-content\" code-editable-id=\"1272\"><ul class=\"pricing__feature-list mbr-text-font\"></ul></div>\n                            <div><a href=\"https://mobirise.com\" class=\"btn mbr-title-font btn-primary mbr-editable-button\" code-editable-id=\"1273\">LEARN MORE</a></div>\n                        </div>\n                    </div>\n                    </div>\n\n                     <!-- Pricing Plan - 4 -->\n                    <div class=\"col-sm-4 price-styles\" style=\"display: none;\"><div class=\"popular mbr-title-font mbr-editable-content\" code-editable-id=\"1274\">Most Popular</div>\n                        <div class=\"pricing__item\">\n                            <h3 class=\"pricing__title mbr-title-font mbr-primary-color mbr-editable-content\" code-editable-id=\"1275\">SUPER</h3>\n                            <p class=\"pricing__sentence mbr-editable-content\" code-editable-id=\"1276\">Perfect for small less than 10 team</p>\n                            <div class=\"pricing__price mbr-title-font\">\n                                <span class=\"pricing__currency mbr-editable-content\" code-editable-id=\"1277\">$</span>\n                                <span class=\"mbr-editable-content\" code-editable-id=\"1278\">199</span>\n                                <span class=\"pricing__period mbr-editable-content\" code-editable-id=\"1279\">/ month</span>\n                            </div>\n                            <div class=\"mbr-editable-content\" code-editable-id=\"1280\"><ul class=\"pricing__feature-list mbr-text-font\"><li class=\"pricing__feature\">9 GB of space</li><li class=\"pricing__feature\">Support at $25/hour</li><li class=\"pricing__feature\">Small social media</li></ul></div>\n                            <div><a href=\"https://mobirise.com\" class=\"btn mbr-title-font btn-primary mbr-editable-button\" code-editable-id=\"1281\">CHOOSE PLAN</a></div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    \n</section>",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-section--relative mbr-parallax-background\" style=\"background-image: url(@PROJECT_PATH@/assets/images/full-unsplash-photo-1459287548155-43ae47657dee-2000x1502-73.jpg);\">\n    <div class=\"pricing\" id=\"pricing\" style=\"padding-top: 60px; padding-bottom: 300px;\">\n        <div class=\"mbr-overlay\" style=\"opacity: 0.5; background-color: rgb(21, 21, 21);\"></div>\n        <div class=\"container\">\n            <div class=\"section-head-lite text-center col-md-8 col-md-offset-2 space60\">\n                \n                \n                \n                \n                    \n                            <div class=\"mbr-figure\"><img src=\"https://dcktxkaneetr8.cloudfront.net/smifund/smi-crown-mark-white.png\" style=\"width: 100px;\"></div><br><br><br>\n                            \n                      \n                \n                    \n                    \n                    \n                <h1 class=\"mbr-title-font mbr-editable-content\" code-editable-id=\"24\">welcome to SMI Advisory Services</h1>\n                <p class=\"mbr-editable-content\" code-editable-id=\"25\">Please make a selection below.</p>\n            </div>\n            <div class=\"row pricing1\">\n                <div class=\"col-md-12\">\n\n                    <!-- Pricing Plan - 1 -->\n                    <div class=\"col-sm-4 price-styles\" style=\"display: block;\">\n                        <div class=\"pricing__item\" data-hover=\"\">\n                            <h3 class=\"pricing__title mbr-title-font mbr-primary-color mbr-editable-content\" style=\"text-align: center;\" code-editable-id=\"26\">SMI Private Client</h3>\n                            <p class=\"pricing__sentence mbr-editable-content\" code-editable-id=\"27\">Lorem lean startup ipsum product market fit customer development acquihire technical cofounder. User engagement A/B testing shrink a market venture capital pitch deck.&nbsp;</p>\n                           \n                            <div class=\"mbr-editable-content\" code-editable-id=\"28\"><ul class=\"pricing__feature-list mbr-text-font\"></ul></div>\n                            <div><a href=\"https://mobirise.com\" class=\"btn mbr-title-font btn-primary mbr-editable-button\" code-editable-id=\"29\">LEARN MORE</a></div>\n                        </div>\n                    </div>\n\n                    <!-- Pricing Plan - 2 -->\n                    <div class=\"col-sm-4 price-styles\" style=\"display: block;\">\n                       <div class=\"pricing__item\" data-hover=\"\">\n                            <h3 class=\"pricing__title mbr-title-font mbr-primary-color mbr-editable-content\" style=\"text-align: center;\" code-editable-id=\"30\">smi plan&nbsp;</h3>\n                            <p class=\"pricing__sentence mbr-editable-content\" code-editable-id=\"31\">Lorem lean startup ipsum product market fit customer development acquihire technical cofounder. User engagement A/B testing shrink a market venture capital pitch deck.&nbsp;</p>\n                           \n                            <div class=\"mbr-editable-content\" code-editable-id=\"32\"><ul class=\"pricing__feature-list mbr-text-font\"></ul></div>\n                            <div><a href=\"https://mobirise.com\" class=\"btn mbr-title-font btn-primary mbr-editable-button\" code-editable-id=\"33\">LEARN MORE</a></div>\n                      \n                    </div>\n                    </div>\n\n                    <!-- Pricing Plan - 3 -->\n                    <div class=\"col-sm-4 price-styles\" style=\"display: block;\">\n                        <div class=\"pricing__item\" data-hover=\"\">\n                            <h3 class=\"pricing__title mbr-title-font mbr-primary-color mbr-editable-content\" style=\"text-align: center;\" code-editable-id=\"34\">SMI funds</h3>\n                            <p class=\"pricing__sentence mbr-editable-content\" code-editable-id=\"35\">Lorem lean startup ipsum product market fit customer development acquihire technical cofounder. User engagement A/B testing shrink a market venture capital pitch deck.&nbsp;</p>\n                           \n                            <div class=\"mbr-editable-content\" code-editable-id=\"36\"><ul class=\"pricing__feature-list mbr-text-font\"></ul></div>\n                            <div><a href=\"https://mobirise.com\" class=\"btn mbr-title-font btn-primary mbr-editable-button\" code-editable-id=\"37\">LEARN MORE</a></div>\n                        </div>\n                    </div>\n                    </div>\n\n                     <!-- Pricing Plan - 4 -->\n                    <div class=\"col-sm-4 price-styles\" style=\"display: none;\"><div class=\"popular mbr-title-font mbr-editable-content\" code-editable-id=\"38\">Most Popular</div>\n                        <div class=\"pricing__item\">\n                            <h3 class=\"pricing__title mbr-title-font mbr-primary-color mbr-editable-content\" code-editable-id=\"39\">SUPER</h3>\n                            <p class=\"pricing__sentence mbr-editable-content\" code-editable-id=\"40\">Perfect for small less than 10 team</p>\n                            <div class=\"pricing__price mbr-title-font\">\n                                <span class=\"pricing__currency mbr-editable-content\" code-editable-id=\"41\">$</span>\n                                <span class=\"mbr-editable-content\" code-editable-id=\"42\">199</span>\n                                <span class=\"pricing__period mbr-editable-content\" code-editable-id=\"43\">/ month</span>\n                            </div>\n                            <div class=\"mbr-editable-content\" code-editable-id=\"44\"><ul class=\"pricing__feature-list mbr-text-font\"><li class=\"pricing__feature\">9 GB of space</li><li class=\"pricing__feature\">Support at $25/hour</li><li class=\"pricing__feature\">Small social media</li></ul></div>\n                            <div><a href=\"https://mobirise.com\" class=\"btn mbr-title-font btn-primary mbr-editable-button\" code-editable-id=\"45\">CHOOSE PLAN</a></div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    \n</section>",
+          "_customTemplate": true,
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "div#pricing.pricing {padding-top: 600px;}",
+          "_anchor": "pricing-table1-q"
+        },
+        {
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showForm": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#d0d0d0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": "0.7",
+            "showIcons": false,
+            "iconsColor": "#fff",
+            "icon1": "fa-bolt",
+            "icon2": "fa-magnet"
+          },
+          "title": "verify your SMI Premium account",
+          "form": {
+            "title": "MESSAGE",
+            "action": "jrenner@soundmindinvesting.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "First Name",
+                "visible": true,
+                "customTitle": "Username"
+              },
+              "lastName": {
+                "title": "Last Name",
+                "visible": true,
+                "customTitle": "Zipcode"
+              },
+              "email": {
+                "title": "Email Address",
+                "visible": false,
+                "customTitle": "Email Address"
+              },
+              "phone": {
+                "title": "Phone No.",
+                "visible": false,
+                "customTitle": "Phone No."
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn mbr-title-font btn-block btn-lg btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">click here to verify</a>",
+          "title1": "",
+          "title2": "ATTRACT VISITORS",
+          "text1": "Lorem ipsum dolor sit amet consec tetur elit amet voluptas accusamus dolorum veritatis ea odio dolor emque.",
+          "title3": "MAGNET ICON",
+          "text2": "",
+          "_customHTML": "<section class=\"mbr-section--bg-adapted\" style=\"background-color: rgb(208, 208, 208);\">\n    <div class=\"intro intro1\" style=\"padding-top: 180px; padding-bottom: 150px;\">\n        \n        <div class=\"container\">\n            <div class=\"row center-content\">\n                <div class=\"col-sm-5 col-md-4\">\n                    <div class=\"intro-form\" data-form-type=\"formoid\">\n                        <h4 class=\"mbr-title-font mbr-editable-content\" code-editable-id=\"84\">verify your SMI Premium account</h4>\n                        <div data-form-alert=\"true\">\n                            <div class=\"hide\" data-form-alert-success=\"true\">Thanks for filling out form!</div>\n                        </div>\n                        <form action=\"https://mobirise.com/\" method=\"post\" data-form-title=\"verify your SMI Premium account\">\n                            <input type=\"hidden\" value=\"WCJc8Usr82mmWM0kkW7+o/VpbQI+hB3TGVXG8IN7w6WLO7tw1245ZKwFLHabciagGwHerqSYGaM8rfQ9otWwMKmY77gz9HeqFqV/Q3FWYUUOmm1qmU6CtsISZDdndGov\" data-form-email=\"true\">\n\n                            <div class=\"form-group\">\n                                    <input type=\"text\" class=\"form-control\" name=\"name\" required=\"\" placeholder=\"Username\" data-form-field=\"First Name\">\n                            </div>\n\n                            <div class=\"form-group\">\n                                <input type=\"text\" class=\"form-control\" name=\"lastName\" required=\"\" placeholder=\"Zipcode\" data-form-field=\"Last Name\">\n                            </div>\n\n                            \n\n                            \n\n                            <div><button type=\"submit\" class=\"btn mbr-title-font btn-block btn-lg btn-primary mbr-editable-button\" code-editable-id=\"85\">click here to verify</button></div>\n                        </form>\n                    </div>\n                </div>\n\n                <div class=\"col-sm-7 col-md-push-1\">\n                    \n                    \n                </div>\n            </div>\n     \n    </div>\n</div>\n\n \n</section>\n",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "",
           "_customTemplate": true,
-          "_anchor": "pricing-table1-k"
+          "_anchor": "header1-t"
         }
       ]
     }

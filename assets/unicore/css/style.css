@@ -3246,7 +3246,7 @@ nav .btn.btn-primary:hover {
   font-size: 20px;
   margin: 0px 0px 10px;
   color: #29d9c2;
-  letter-spacing: .2px;
+  letter-spacing: 2px;
   text-transform: uppercase;
   font-weight: 700;
 }
@@ -7796,7 +7796,7 @@ i{
     font-size: 50px;
   }
   .pricing__title{
-    font-size: 19px;
+    font-size: 16px;
   }
   .pricing__item p{
     font-size: 12px;
@@ -7823,7 +7823,7 @@ i{
     font-size: 50px;
   }
   .pricing__title{
-    font-size: 19px;
+    font-size: 16px;
   }
   .pricing__item p{
     font-size: 12px;
@@ -8340,4 +8340,6 @@ li.text-white a{
 	text-indent: -2400px;
 	text-align: center;
 	padding: 0;
+	top: 0;
+	left: -2400px;
 }

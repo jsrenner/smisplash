@@ -152,3 +152,6 @@ p {
 input {
   border-radius: 0 !important;
 }
+#pricing-table1-q div#pricing.pricing {
+  padding-top: 600px;
+}
