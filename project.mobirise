@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SMI Advisory Splash",
-    "currentPage": "SMIPrivateClient.html",
+    "currentPage": "SMIPlan.html",
     "theme": {
       "name": "unicore",
       "title": "Unicore",
@@ -17,7 +17,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 53,
+    "uniqCompNum": 76,
     "versionPublish": "3.10.5",
     "favicon": "",
     "noImageResize": "",
@@ -94,18 +94,52 @@
             "Theme"
           ],
           "_name": "pricing-table1",
-          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-section--relative mbr-parallax-background\" style=\"background-image: url(@PROJECT_PATH@/assets/images/full-unsplash-photo-1459287548155-43ae47657dee-2000x1502-73.jpg);\">\n    <div class=\"pricing\" id=\"pricing\" style=\"padding-top: 80px; padding-bottom: 300px;\">\n        <div class=\"mbr-overlay\" style=\"opacity: 0.5; background-color: rgb(21, 21, 21);\"></div>\n        <div class=\"container\">\n            <div class=\"section-head-lite text-center col-md-8 col-md-offset-2 space60\">\n                \n                \n                \n                \n                    \n                            <div class=\"mbr-figure\"><img src=\"https://dcktxkaneetr8.cloudfront.net/smifund/smi-crown-mark-white.png\" style=\"width: 100px;\"></div><br><br>\n                \n                            \n                      \n                \n                    \n                    \n                    \n                <h1 class=\"mbr-title-font mbr-editable-content\" code-editable-id=\"1143\">welcome to SMI Advisory Services</h1>\n                <p class=\"mbr-editable-content\" code-editable-id=\"1144\">Please make a selection below.</p>\n            </div>\n            <div class=\"row pricing1\">\n                <div class=\"col-md-12\">\n\n                    <!-- Pricing Plan - 1 -->\n                    <div class=\"col-sm-4 price-styles\" style=\"display: block;\">\n                        <div class=\"pricing__item\" data-hover=\"\">\n                            <h3 class=\"pricing__title mbr-title-font mbr-primary-color mbr-editable-content\" style=\"text-align: center;\" code-editable-id=\"1145\">SMI Private Client</h3>\n                            <p class=\"pricing__sentence mbr-editable-content\" code-editable-id=\"1146\">Lorem lean startup ipsum product market fit customer development acquihire technical cofounder. User engagement A/B testing shrink a market venture capital pitch deck.&nbsp;</p>\n                           \n                            <div class=\"mbr-editable-content\" code-editable-id=\"1147\"><ul class=\"pricing__feature-list mbr-text-font\"></ul></div>\n                            <div><a href=\"SMIPrivateClient.html\" class=\"btn mbr-title-font btn-primary mbr-editable-button\" code-editable-id=\"1148\">LEARN MORE</a></div>\n                        </div>\n                    </div>\n\n                    <!-- Pricing Plan - 2 -->\n                    <div class=\"col-sm-4 price-styles\" style=\"display: block;\">\n                       <div class=\"pricing__item\" data-hover=\"\">\n                            <h3 class=\"pricing__title mbr-title-font mbr-primary-color mbr-editable-content\" style=\"text-align: center;\" code-editable-id=\"1149\">smi plan&nbsp;</h3>\n                            <p class=\"pricing__sentence mbr-editable-content\" code-editable-id=\"1150\">Lorem lean startup ipsum product market fit customer development acquihire technical cofounder. User engagement A/B testing shrink a market venture capital pitch deck.&nbsp;</p>\n                           \n                            <div class=\"mbr-editable-content\" code-editable-id=\"1151\"><ul class=\"pricing__feature-list mbr-text-font\"></ul></div>\n                            <div><a href=\"SMIPlan.html\" class=\"btn mbr-title-font btn-primary mbr-editable-button\" code-editable-id=\"1152\">LEARN MORE</a></div>\n                      \n                    </div>\n                    </div>\n\n                    <!-- Pricing Plan - 3 -->\n                    <div class=\"col-sm-4 price-styles\" style=\"display: block;\">\n                        <div class=\"pricing__item\" data-hover=\"\">\n                            <h3 class=\"pricing__title mbr-title-font mbr-primary-color mbr-editable-content\" style=\"text-align: center;\" code-editable-id=\"1153\">SMI funds</h3>\n                            <p class=\"pricing__sentence mbr-editable-content\" code-editable-id=\"1154\">Lorem lean startup ipsum product market fit customer development acquihire technical cofounder. User engagement A/B testing shrink a market venture capital pitch deck.&nbsp;</p>\n                           \n                            <div class=\"mbr-editable-content\" code-editable-id=\"1155\"><ul class=\"pricing__feature-list mbr-text-font\"></ul></div>\n                            <div><a href=\"smifund.html\" class=\"btn mbr-title-font btn-primary mbr-editable-button\" code-editable-id=\"1156\">LEARN MORE</a></div>\n                        </div>\n                    </div>\n                    </div>\n\n                     <!-- Pricing Plan - 4 -->\n                    <div class=\"col-sm-4 price-styles\" style=\"display: none;\"><div class=\"popular mbr-title-font mbr-editable-content\" code-editable-id=\"1157\">Most Popular</div>\n                        <div class=\"pricing__item\">\n                            <h3 class=\"pricing__title mbr-title-font mbr-primary-color mbr-editable-content\" code-editable-id=\"1158\">SUPER</h3>\n                            <p class=\"pricing__sentence mbr-editable-content\" code-editable-id=\"1159\">Perfect for small less than 10 team</p>\n                            <div class=\"pricing__price mbr-title-font\">\n                                <span class=\"pricing__currency mbr-editable-content\" code-editable-id=\"1160\">$</span>\n                                <span class=\"mbr-editable-content\" code-editable-id=\"1161\">199</span>\n                                <span class=\"pricing__period mbr-editable-content\" code-editable-id=\"1162\">/ month</span>\n                            </div>\n                            <div class=\"mbr-editable-content\" code-editable-id=\"1163\"><ul class=\"pricing__feature-list mbr-text-font\"><li class=\"pricing__feature\">9 GB of space</li><li class=\"pricing__feature\">Support at $25/hour</li><li class=\"pricing__feature\">Small social media</li></ul></div>\n                            <div><a href=\"https://mobirise.com\" class=\"btn mbr-title-font btn-primary mbr-editable-button\" code-editable-id=\"1164\">CHOOSE PLAN</a></div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    \n</section>",
+          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-section--relative mbr-parallax-background\" style=\"background-image: url(@PROJECT_PATH@/assets/images/full-unsplash-photo-1459287548155-43ae47657dee-2000x1502-73.jpg);\">\n    <div class=\"pricing\" id=\"pricing\" style=\"padding-top: 80px; padding-bottom: 300px;\">\n        <div class=\"mbr-overlay\" style=\"opacity: 0.5; background-color: rgb(21, 21, 21);\"></div>\n        <div class=\"container\">\n            <div class=\"section-head-lite text-center col-md-8 col-md-offset-2 space60\">\n                \n                \n                \n                \n                    \n                            <div class=\"mbr-figure\"><img src=\"https://dcktxkaneetr8.cloudfront.net/smifund/smi-crown-mark-white.png\" style=\"width: 100px;\"></div><br><br>\n                \n                            \n                      \n                \n                    \n                    \n                    \n                <h1 class=\"mbr-title-font mbr-editable-content\" code-editable-id=\"3561\">welcome to SMI Advisory Services</h1>\n                <p class=\"mbr-editable-content\" code-editable-id=\"3562\">Please make a selection below.</p>\n            </div>\n            <div class=\"row pricing1\">\n                <div class=\"col-md-12\">\n\n                    <!-- Pricing Plan - 1 -->\n                    <div class=\"col-sm-4 price-styles\" style=\"display: block;\">\n                        <div class=\"pricing__item\" data-hover=\"\">\n                            <h3 class=\"pricing__title mbr-title-font mbr-primary-color mbr-editable-content\" style=\"text-align: center;\" code-editable-id=\"3563\">SMI Private Client</h3>\n                            <p class=\"pricing__sentence mbr-editable-content\" code-editable-id=\"3564\">Lorem lean startup ipsum product market fit customer development acquihire technical cofounder. User engagement A/B testing shrink a market venture capital pitch deck.&nbsp;</p>\n                           \n                            <div class=\"mbr-editable-content\" code-editable-id=\"3565\"><ul class=\"pricing__feature-list mbr-text-font\"></ul></div>\n                            <div><a href=\"SMIPrivateClient.html\" class=\"btn mbr-title-font btn-primary mbr-editable-button\" code-editable-id=\"3566\">LEARN MORE</a></div>\n                        </div>\n                    </div>\n\n                    <!-- Pricing Plan - 2 -->\n                    <div class=\"col-sm-4 price-styles\" style=\"display: block;\">\n                       <div class=\"pricing__item\" data-hover=\"\">\n                            <h3 class=\"pricing__title mbr-title-font mbr-primary-color mbr-editable-content\" style=\"text-align: center;\" code-editable-id=\"3567\">smi plan&nbsp;</h3>\n                            <p class=\"pricing__sentence mbr-editable-content\" code-editable-id=\"3568\">Lorem lean startup ipsum product market fit customer development acquihire technical cofounder. User engagement A/B testing shrink a market venture capital pitch deck.&nbsp;</p>\n                           \n                            <div class=\"mbr-editable-content\" code-editable-id=\"3569\"><ul class=\"pricing__feature-list mbr-text-font\"></ul></div>\n                            <div><a href=\"SMIPlan.html\" class=\"btn mbr-title-font btn-primary mbr-editable-button\" code-editable-id=\"3570\">LEARN MORE</a></div>\n                      \n                    </div>\n                    </div>\n\n                    <!-- Pricing Plan - 3 -->\n                    <div class=\"col-sm-4 price-styles\" style=\"display: block;\">\n                        <div class=\"pricing__item\" data-hover=\"\">\n                            <h3 class=\"pricing__title mbr-title-font mbr-primary-color mbr-editable-content\" style=\"text-align: center;\" code-editable-id=\"3571\">SMI funds</h3>\n                            <p class=\"pricing__sentence mbr-editable-content\" code-editable-id=\"3572\">Lorem lean startup ipsum product market fit customer development acquihire technical cofounder. User engagement A/B testing shrink a market venture capital pitch deck.&nbsp;</p>\n                           \n                            <div class=\"mbr-editable-content\" code-editable-id=\"3573\"><ul class=\"pricing__feature-list mbr-text-font\"></ul></div>\n                            <div><a href=\"smifund.html\" class=\"btn mbr-title-font btn-primary mbr-editable-button\" code-editable-id=\"3574\">LEARN MORE</a></div>\n                        </div>\n                    </div>\n                    </div>\n\n                     <!-- Pricing Plan - 4 -->\n                    <div class=\"col-sm-4 price-styles\" style=\"display: none;\"><div class=\"popular mbr-title-font mbr-editable-content\" code-editable-id=\"3575\">Most Popular</div>\n                        <div class=\"pricing__item\">\n                            <h3 class=\"pricing__title mbr-title-font mbr-primary-color mbr-editable-content\" code-editable-id=\"3576\">SUPER</h3>\n                            <p class=\"pricing__sentence mbr-editable-content\" code-editable-id=\"3577\">Perfect for small less than 10 team</p>\n                            <div class=\"pricing__price mbr-title-font\">\n                                <span class=\"pricing__currency mbr-editable-content\" code-editable-id=\"3578\">$</span>\n                                <span class=\"mbr-editable-content\" code-editable-id=\"3579\">199</span>\n                                <span class=\"pricing__period mbr-editable-content\" code-editable-id=\"3580\">/ month</span>\n                            </div>\n                            <div class=\"mbr-editable-content\" code-editable-id=\"3581\"><ul class=\"pricing__feature-list mbr-text-font\"><li class=\"pricing__feature\">9 GB of space</li><li class=\"pricing__feature\">Support at $25/hour</li><li class=\"pricing__feature\">Small social media</li></ul></div>\n                            <div><a href=\"https://mobirise.com\" class=\"btn mbr-title-font btn-primary mbr-editable-button\" code-editable-id=\"3582\">CHOOSE PLAN</a></div>\n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    \n</section>",
           "_customTemplate": true,
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "div#pricing.pricing {padding-top: 600px;}",
           "_anchor": "pricing-table1-q"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "iconsColor": "@primaryColor",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "bgColor": "#dbdbdb",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.75,
+            "overlayColor": "#151515",
+            "icon1": "fa-map-marker",
+            "icon2": "fa-phone",
+            "icon3": "fa-envelope"
+          },
+          "title": "SMI Advisory Services<br>",
+          "text1": "234 Wall Street<br>East Newyork, NY 20001",
+          "text2": "1800 1234 5678<br>(080) 1234 56789",
+          "text3": "info@website.com<br>Support@website.com",
+          "icons": "<a class=\"fa\" data-app-btn=\"true\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"><i class=\"fa fa-linkedin\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"><i class=\"fa fa-facebook\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"fa fa-twitter\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Dribble\" target=\"_blank\" href=\"https://dribbble.com/Mobirise\"><i class=\"fa fa-dribbble\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"fa fa-google-plus\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"fa fa-instagram\"></i></a> ",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-section--relative\" style=\"background-color: rgb(219, 219, 219);\">\n    <footer style=\"padding-top: 80px; padding-bottom: 60px;\">\n    \n        <div class=\"container\">\n            <ul class=\"list-inline\">\n                <li>\n                    <h1 class=\"footer-logo mbr-title-font mbr-editable-content\" code-editable-id=\"3643\">SMI Advisory Services<br></h1>\n                </li>\n                <li>\n                    <div class=\"contact-info mbr-title-font\"> <i class=\"fa mbr-primary-color fa-map-marker\"></i><br>\n                        <div class=\"mbr-editable-content\" code-editable-id=\"3644\">PO Box 46707<div>Cincinnati, OH 45246</div></div>\n                    </div>\n                </li>\n                <li>\n                    <div class=\"contact-info mbr-title-font\"><i class=\"fa mbr-primary-color fa-phone\"></i><br>\n                        <div class=\"mbr-editable-content\" code-editable-id=\"3645\">877-SMI-FUND <br>(877-764-3863)</div>\n                    </div>\n                </li>\n                <li>\n                    <div class=\"contact-info mbr-title-font no-border\"><i class=\"fa mbr-primary-color fa-envelope\"></i><br>\n                        <div class=\"mbr-editable-content\" code-editable-id=\"3646\">info@website.com<br>Support@website.com</div>\n                    </div>\n                </li>\n                <li class=\"pull-right\">\n                    <div class=\"footer-social\"><a class=\"fa mbr-editable-button\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\" code-editable-id=\"3647\"><i class=\"fa fa-linkedin\"></i></a> <a class=\"fa mbr-editable-button\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" code-editable-id=\"3648\"><i class=\"fa fa-facebook\"></i></a> <a class=\"fa mbr-editable-button\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" code-editable-id=\"3649\"><i class=\"fa fa-twitter\"></i></a>  <a class=\"fa mbr-editable-button\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\" code-editable-id=\"3650\"><i class=\"fa fa-google-plus\"></i></a>  </div>\n                </li>\n            </ul>\n        </div>\n    </footer>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "H1 {\n\tfont-size: 17px;\n}\n",
+          "_customTemplate": true,
+          "_anchor": "contacts1-20"
         }
       ]
-    },
-    "page3.html": {
-      "settings": {},
-      "components": []
     },
     "SMIPlan.html": {
       "settings": {
@@ -118,9 +152,57 @@
             "showText": true,
             "showForm": true,
             "paddingTop": 2,
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "file:///Users/jonrenner/Library/Application%20Support/Mobirise.com/Mobirise/projectData/20.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#111",
+            "overlayOpacity": 0.65
+          },
+          "title1": "SMI Private Client",
+          "text": "Nam tellus turpis blandit et ligula vel lacinia massa sit amet minus fugit in ipsum semper euismod massa auctor magna eget nunc iaculis nunc.&nbsp;Nam tellus turpis blandit et ligula vel lacinia massa sit amet minus fugit in ipsum semper euismod massa auctor magna eget nunc iaculis nunc.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn mbr-title-font btn-primary btn-block\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">learn more</a>",
+          "form": {
+            "title": "SUBSCRIBE",
+            "action": "jrenner@soundmindinvesting.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "email": {
+                "title": "Email",
+                "customTitle": "Email Address here"
+              }
+            }
+          },
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header13",
+          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-after-navbar\" style=\"background-image: url(https://dcktxkaneetr8.cloudfront.net/smifund/mgp-screenshot-back1.jpg);\">\n    <div class=\"intro intro11 intro20\" style=\"padding-top: 150px; padding-bottom: 200px;\">\n        <div class=\"mbr-overlay\" style=\"opacity: 0.75; background-color: rgb(17, 17, 17);\"></div>\n        <div class=\"container\">\n            <div class=\"row center-content\">\n                <div class=\"col-md-10 col-md-offset-1 text-center\"><div class=\"mbr-figure\"><a href=\"index.html\"><img src=\"https://dcktxkaneetr8.cloudfront.net/smifund/smi-crown-mark-white.png\" style=\"width: 100px; margin-bottom:20px\"></a>\n                    <h3 class=\"mbr-title-font mbr-editable-content\" code-editable-id=\"3975\">Introducing SMI Plan</h3>\n               \n                \n                        \n                                \n                                <div><div class=\"intro-box\">\n                            <h4 class=\"mbr-title-font mbr-editable-content\" code-editable-id=\"3976\">GET READY FOR A NEW LEVEL OF FINANCIAL PLANNING</h4></div>\n                                    <p class=\"mbr-editable-content\" code-editable-id=\"3977\">Lorem ipsum dolor sit amet consec tetur elit amet voluptas accusamus dolorum veritatis ea odio dolor emque. Lorem ipsum dolor sit amet consec tetur elit amet voluptas accusamus dolorum veritatis ea odio dolor emque. Lorem ipsum dolor sit amet consec tetur elit amet voluptas accusamus dolorum veritatis ea odio dolor emque.<br></p>\n                                \n                 \n                       <div class=\"space10\"></div>\n                    <div class=\"dual-btn\"><a href=\"SMIPlan.html#header1-1q\" class=\"btn mbr-title-font btn-lg btn-primary mbr-editable-button\" code-editable-id=\"3978\">PURCHASE</a> <a href=\"SMIPlan.html#header1-1r\" class=\"btn mbr-title-font btn-lg btn-primary mbr-editable-button\" code-editable-id=\"3979\">Discount Promotions</a> <a href=\"SMIPlan.html#header1-1s\" class=\"btn mbr-title-font btn-lg btn-primary mbr-editable-button\" code-editable-id=\"3980\">FRIENDS IN MINISTRY</a></div>\n                    </div>\n                </div>\n            </div>\n        </div>\n        \n        \n    </div>\n</div></section>",
+          "_customTemplate": true,
+          "_anchor": "header13-1i",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ""
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showForm": true,
+            "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": true,
-            "bgImage": "file:///Users/jonrenner/Library/Application%20Support/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1431605695381-f4a9c3cdd150-2000x1333.jpg",
+            "bgImage": "file:///Users/jonrenner/Library/Application%20Support/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1431605695381-f4a9c3cdd150-2000x1333_2.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -177,12 +259,194 @@
             "Theme"
           ],
           "_name": "header1",
-          "_customHTML": "<section class=\"mbr-section--bg-adapted\" style=\"background-image: url(https://dcktxkaneetr8.cloudfront.net/smifund/mgp-screenshot-back1.jpg);\">\n    <div class=\"intro intro1\" style=\"padding-top: 180px; padding-bottom: 390px;\">\n        <div class=\"mbr-overlay\" style=\"opacity: 0.7; background-color: rgb(45, 45, 45);\"></div>\n        <div class=\"container\">\n            <div class=\"row center-content\">\n                <div class=\"col-sm-5 col-md-4\">\n                    <div class=\"intro-form\" data-form-type=\"formoid\">\n                        <h4 class=\"mbr-title-font mbr-editable-content\" style=\"font-size: 23px;\" code-editable-id=\"1177\">verify your smi premium account to redeem offer</h4>\n                        <div data-form-alert=\"true\">\n                            <div class=\"hide\" data-form-alert-success=\"true\">Thanks for filling out form!</div>\n                        </div>\n                        <form action=\"https://mobirise.com/\" method=\"post\" data-form-title=\"APPLY NOW!\">\n                            <input type=\"hidden\" value=\"P4VkJYcOniARUtZA9HTWCrqwrLMomD07GerPwS0NeWQ+k6nmQGXn90PYyn8OjJocGoMjE75Gn+lpgdxFTCE4gBy7y9VCxKXiyQqCV1/zAZWULwg2GdG9aOJ5Roz9+v62\" data-form-email=\"true\">\n\n                            <div class=\"form-group\">\n                                    <input type=\"text\" class=\"form-control\" name=\"userName\" required=\"\" placeholder=\"User Name\" data-form-field=\"User Name\">\n                            </div>\n\n                            <div class=\"form-group\">\n                                <input type=\"text\" class=\"form-control\" name=\"zipCode\" required=\"\" placeholder=\"Zip Code\" data-form-field=\"Zip Code\">\n                            </div>\n\n                           \n\n                            <div><button type=\"submit\" class=\"btn mbr-title-font btn-block btn-lg btn-primary mbr-editable-button\" code-editable-id=\"1178\">Click Here To Verify</button></div>\n                        </form>\n                    </div>\n                </div>\n\n                <div class=\"col-sm-7 col-md-push-1\"><div class=\"mbr-figure\"><a href=\"index.html\"><img src=\"https://dcktxkaneetr8.cloudfront.net/smifund/smi-crown-mark-white.png\" style=\"width: 100px; margin-bottom:20px\"></a>\n                    <h2 class=\"mbr-title-font mbr-editable-content\" code-editable-id=\"1179\">Introducing SMI Plan</h2>\n                    <div class=\"row\">\n                        <div class=\"col-md-10\">\n                            <div class=\"intro-box\">\n                                \n                                <div>\n                                    <h4 class=\"mbr-title-font mbr-editable-content\" code-editable-id=\"1180\">Get Ready for a new level of financial planning</h4>\n                                    <p class=\"mbr-editable-content\" code-editable-id=\"1181\">Lorem ipsum dolor sit amet consec tetur elit amet voluptas accusamus dolorum veritatis ea odio dolor emque. Lorem ipsum dolor sit amet consec tetur elit amet voluptas accusamus dolorum veritatis ea odio dolor emque. Lorem ipsum dolor sit amet consec tetur elit amet voluptas accusamus dolorum veritatis ea odio dolor emque.</p>\n                                </div>\n                                   <div class=\"space30\"></div>\n                                <div><a class=\"btn mbr-title-font btn-lg btn-primary mbr-editable-button\" href=\"https://mobirise.com\" code-editable-id=\"1182\">PURCHASE NOW</a></div>\n                            </div>\n                            \n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</div></section>",
+          "_customHTML": "<section class=\"mbr-section--bg-adapted\" style=\"background-image: url(https://dcktxkaneetr8.cloudfront.net/smifund/beach-ariel-view-back);\">\n    <div class=\"intro intro1\" style=\"padding-top: 180px; padding-bottom: 200px;\">\n        <div class=\"mbr-overlay\" style=\"opacity: 0.7; background-color: rgb(45, 45, 45);\"></div>\n        <div class=\"container\">\n            <div class=\"row center-content\">\n                <div class=\"col-sm-5 col-md-4\">\n                           <div class=\"col-sm-12 price-styles price-one-el\" style=\"display: block;\">\n                        <div class=\"pricing__item\" data-hover=\"\">\n                            <h3 class=\"pricing__title mbr-title-font mbr-primary-color mbr-editable-content\" code-editable-id=\"3991\">SMI PLanning Tool</h3>\n                           \n                            <div class=\"pricing__price mbr-title-font\">\n                                <span class=\"pricing__currency mbr-editable-content\" code-editable-id=\"3992\">$</span>\n                                <span class=\"mbr-editable-content\" code-editable-id=\"3993\">1,200</span>\n                                <span class=\"pricing__period mbr-editable-content\" code-editable-id=\"3994\">/ one time fee</span>\n                            </div>\n                            <div class=\"mbr-editable-content\" code-editable-id=\"3995\"><ul class=\"pricing__feature-list mbr-text-font\"><li class=\"pricing__feature\">1 GB of space</li><li class=\"pricing__feature\">Support at $25/hour</li><li class=\"pricing__feature\">Small social media</li></ul></div>\n                            <div><a href=\"https://mobirise.com\" class=\"btn mbr-title-font btn-primary mbr-editable-button\" code-editable-id=\"3996\">purchase</a></div>\n                        </div>\n                    </div></div>\n                \n\n                <div class=\"col-sm-7 col-md-push-1\"><div class=\"mbr-figure\">\n                    <h2 class=\"mbr-title-font mbr-editable-content\" code-editable-id=\"3997\">Purchase SMI Plan</h2>\n                    <div class=\"row\">\n                        <div class=\"col-md-10\">\n                            <div class=\"intro-box\">\n                                \n                                <div>\n                                    <h4 class=\"mbr-title-font mbr-editable-content\" code-editable-id=\"3998\">Get Ready for a new level of financial planning</h4>\n                                    <p class=\"mbr-editable-content\" code-editable-id=\"3999\">Lorem ipsum dolor sit amet consec tetur elit amet voluptas accusamus dolorum veritatis ea odio dolor emque. Lorem ipsum dolor sit amet consec tetur elit amet voluptas accusamus dolorum veritatis ea odio dolor emque. Lorem ipsum dolor sit amet consec tetur elit amet voluptas accusamus dolorum veritatis ea odio dolor emque.</p>\n                                </div>\n                                <div class=\"space30\"></div>\n                                <div><a class=\"btn mbr-title-font btn-lg mbr-editable-button btn-default\" target=\"_blank\" href=\"#top\" code-editable-id=\"4000\">Back TO Top</a></div>\n                                   \n                            </div>\n                            \n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</div></section>",
           "_customCSS": "@import url(undefined);\n.intro-box h4 {\n\ttext-align: left;\n}\n.intro-box div {\n    margin-left: 0px;\n}",
           "_customTemplate": true,
-          "_anchor": "header1-14",
+          "_anchor": "header1-1q",
           "_PHPplaceholders": [],
           "_JSplaceholders": []
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showForm": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "bgImage": "file:///Users/jonrenner/Library/Application%20Support/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1431605695381-f4a9c3cdd150-2000x1333_2.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2d2d2d",
+            "overlayOpacity": "0.7",
+            "showIcons": false,
+            "iconsColor": "#fff",
+            "icon1": "fa-bolt",
+            "icon2": "fa-magnet"
+          },
+          "title": "APPLY NOW!",
+          "title1": "SMI PLAN",
+          "title2": "ATTRACT VISITORS",
+          "title3": "MAGNET ICON",
+          "text1": "Lorem ipsum dolor sit amet consec tetur elit amet voluptas accusamus dolorum veritatis ea odio dolor emque.",
+          "text2": "Lorem ipsum dolor sit amet consec tetur elit amet voluptas accusamus dolorum veritatis ea odio dolor emque.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn mbr-title-font btn-block btn-lg btn-primary\">GET FREE TRIAL</a>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "jrenner@soundmindinvesting.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "First Name",
+                "visible": true,
+                "customTitle": "First Name"
+              },
+              "lastName": {
+                "title": "Last Name",
+                "visible": true,
+                "customTitle": "Last Name"
+              },
+              "email": {
+                "title": "Email Address",
+                "visible": true,
+                "customTitle": "Email Address"
+              },
+              "phone": {
+                "title": "Phone No.",
+                "visible": true,
+                "customTitle": "Phone No."
+              }
+            }
+          },
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_customHTML": "<section class=\"mbr-section--bg-adapted\" style=\"background-image: url(https://dcktxkaneetr8.cloudfront.net/smifund/beach-path-back-coupon-code.jpg);\">\n    <div class=\"intro intro1\" style=\"padding-top: 180px; padding-bottom: 200px;\">\n        <div class=\"mbr-overlay\" style=\"opacity: 0.7; background-color: rgb(21, 21, 21);\"></div>\n        <div class=\"container\">\n            <div class=\"row center-content\">\n                <div class=\"col-sm-5 col-md-4\">\n                    <div class=\"intro-form\" data-form-type=\"formoid\">\n                        <h4 class=\"mbr-title-font mbr-editable-content\" style=\"font-size: 23px;\" code-editable-id=\"3657\"><span style=\"font-size: 25px; line-height: 1.1;\">verify your&nbsp;</span><br>promotion Code</h4>\n                        <div data-form-alert=\"true\">\n                            <div class=\"hide\" data-form-alert-success=\"true\">Thanks for filling out form!</div>\n                        </div>\n                        <form action=\"https://mobirise.com/\" method=\"post\" data-form-title=\"APPLY NOW!\">\n                            <input type=\"hidden\" value=\"P4VkJYcOniARUtZA9HTWCrqwrLMomD07GerPwS0NeWQ+k6nmQGXn90PYyn8OjJocGoMjE75Gn+lpgdxFTCE4gBy7y9VCxKXiyQqCV1/zAZWULwg2GdG9aOJ5Roz9+v62\" data-form-email=\"true\">\n\n                            <div class=\"form-group\">\n                                    <input type=\"text\" class=\"form-control\" name=\"promoCode\" required=\"\" placeholder=\"Promo Code\" data-form-field=\"Promo Code\">\n                            </div>\n\n                            <div class=\"form-group\">\n                                <input type=\"text\" class=\"form-control\" name=\"zipCode\" required=\"\" placeholder=\"Zip Code\" data-form-field=\"Zip Code\">\n                            </div>\n\n                           \n\n                            <div><button type=\"submit\" class=\"btn mbr-title-font btn-block btn-lg btn-primary mbr-editable-button\" code-editable-id=\"3658\">Click Here To Verify</button></div>\n                        </form>\n                    </div>\n                </div>\n\n                <div class=\"col-sm-7 col-md-push-1\"><div class=\"mbr-figure\">\n                    <h2 class=\"mbr-title-font mbr-editable-content\" code-editable-id=\"3659\">Discount Promotions&nbsp;</h2>\n                    <div class=\"row\">\n                        <div class=\"col-md-10\">\n                            <div class=\"intro-box\">\n                                \n                                <div>\n                                    <h4 class=\"mbr-title-font mbr-editable-content\" code-editable-id=\"3660\">Get Ready for a new level of financial planning</h4>\n                                    <p class=\"mbr-editable-content\" code-editable-id=\"3661\">Lorem ipsum dolor sit amet consec tetur elit amet voluptas accusamus dolorum veritatis ea odio dolor emque. Lorem ipsum dolor sit amet consec tetur elit amet voluptas accusamus dolorum veritatis ea odio dolor emque. Lorem ipsum dolor sit amet consec tetur elit amet voluptas accusamus dolorum veritatis ea odio dolor emque.</p>\n                                </div>\n                                   <div class=\"space30\"></div>\n                                <div><a class=\"btn mbr-title-font btn-lg mbr-editable-button btn-default\" target=\"_blank\" href=\"#top\" code-editable-id=\"3662\">Back TO Top</a></div>\n                            </div>\n                            \n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</div></section>",
+          "_customCSS": "@import url(undefined);\n.intro-box h4 {\n\ttext-align: left;\n}\n.intro-box div {\n    margin-left: 0px;\n}",
+          "_customTemplate": true,
+          "_anchor": "header1-1r",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showForm": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "bgImage": "file:///Users/jonrenner/Library/Application%20Support/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1431605695381-f4a9c3cdd150-2000x1333_4.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2d2d2d",
+            "overlayOpacity": "0.7",
+            "showIcons": false,
+            "iconsColor": "#fff",
+            "icon1": "fa-bolt",
+            "icon2": "fa-magnet"
+          },
+          "title": "APPLY NOW!",
+          "title1": "SMI PLAN",
+          "title2": "ATTRACT VISITORS",
+          "title3": "MAGNET ICON",
+          "text1": "Lorem ipsum dolor sit amet consec tetur elit amet voluptas accusamus dolorum veritatis ea odio dolor emque.",
+          "text2": "Lorem ipsum dolor sit amet consec tetur elit amet voluptas accusamus dolorum veritatis ea odio dolor emque.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn mbr-title-font btn-block btn-lg btn-primary\">GET FREE TRIAL</a>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "jrenner@soundmindinvesting.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "First Name",
+                "visible": true,
+                "customTitle": "First Name"
+              },
+              "lastName": {
+                "title": "Last Name",
+                "visible": true,
+                "customTitle": "Last Name"
+              },
+              "email": {
+                "title": "Email Address",
+                "visible": true,
+                "customTitle": "Email Address"
+              },
+              "phone": {
+                "title": "Phone No.",
+                "visible": true,
+                "customTitle": "Phone No."
+              }
+            }
+          },
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_customHTML": "<section class=\"mbr-section--bg-adapted\" style=\"background-image: url(https://dcktxkaneetr8.cloudfront.net/smifund/church-view-back);\">\n    <div class=\"intro intro1\" style=\"padding-top: 180px; padding-bottom: 200px;\">\n        <div class=\"mbr-overlay\" style=\"opacity: 0.7; background-color: rgb(21, 21, 21);\"></div>\n        <div class=\"container\">\n            <div class=\"row center-content\">\n                <div class=\"col-sm-5 col-md-4\">\n                    <div class=\"intro-form\" data-form-type=\"formoid\">\n                        <h4 class=\"mbr-title-font mbr-editable-content\" style=\"font-size: 23px;\" code-editable-id=\"3509\">Contact Us For Discount</h4>\n                        <div data-form-alert=\"true\">\n                            <div class=\"hide\" data-form-alert-success=\"true\">Thanks for filling out form!</div>\n                        </div>\n                        <form action=\"https://mobirise.com/\" method=\"post\" data-form-title=\"APPLY NOW!\">\n                            <input type=\"hidden\" value=\"P4VkJYcOniARUtZA9HTWCrqwrLMomD07GerPwS0NeWQ+k6nmQGXn90PYyn8OjJocGoMjE75Gn+lpgdxFTCE4gBy7y9VCxKXiyQqCV1/zAZWULwg2GdG9aOJ5Roz9+v62\" data-form-email=\"true\">\n\n                          <div class=\"form-group\">\n                                    <input type=\"text\" class=\"form-control\" name=\"name\" required=\"\" placeholder=\"First Name\" data-form-field=\"First Name\">\n                            </div>\n\n                            <div class=\"form-group\">\n                                <input type=\"text\" class=\"form-control\" name=\"lastName\" required=\"\" placeholder=\"Last Name\" data-form-field=\"Last Name\">\n                            </div>\n\n                            <div class=\"form-group\">\n                                <input type=\"email\" class=\"form-control\" name=\"email\" required=\"\" placeholder=\"Email Address\" data-form-field=\"Email Address\">\n                            </div>\n\n                            <div class=\"form-group\">\n                                <input type=\"tel\" class=\"form-control\" name=\"phone\" placeholder=\"Phone No.\" data-form-field=\"Phone No.\">\n                            </div>\n                           \n\n                            <div><button type=\"submit\" class=\"btn mbr-title-font btn-block btn-lg btn-primary mbr-editable-button\" code-editable-id=\"3510\">Submit</button></div>\n                        </form>\n                    </div>\n                </div>\n\n                <div class=\"col-sm-7 col-md-push-1\"><div class=\"mbr-figure\">\n                    <h2 class=\"mbr-title-font mbr-editable-content\" code-editable-id=\"3511\">Friends In Minstry Offer</h2>\n                    <div class=\"row\">\n                        <div class=\"col-md-10\">\n                            <div class=\"intro-box\">\n                                \n                                <div>\n                                    <h4 class=\"mbr-title-font mbr-editable-content\" code-editable-id=\"3512\">Get Ready for a new level of financial planning</h4>\n                                    <p class=\"mbr-editable-content\" code-editable-id=\"3513\">Lorem ipsum dolor sit amet consec tetur elit amet voluptas accusamus dolorum veritatis ea odio dolor emque. Lorem ipsum dolor sit amet consec tetur elit amet voluptas accusamus dolorum veritatis ea odio dolor emque. Lorem ipsum dolor sit amet consec tetur elit amet voluptas accusamus dolorum veritatis ea odio dolor emque.</p>\n                                </div>\n                                   <div class=\"space30\"></div>\n                                <div><a class=\"btn mbr-title-font btn-lg mbr-editable-button btn-default\" target=\"_blank\" href=\"#top\" code-editable-id=\"3514\">Back TO Top</a></div>\n                            </div>\n                            \n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</div></section>",
+          "_customCSS": "@import url(undefined);\n.intro-box h4 {\n\ttext-align: left;\n}\n.intro-box div {\n    margin-left: 0px;\n}",
+          "_customTemplate": true,
+          "_anchor": "header1-1s",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
+        },
+        {
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-20",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "iconsColor": "@primaryColor",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "bgColor": "#dbdbdb",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.75,
+            "overlayColor": "#151515",
+            "icon1": "fa-map-marker",
+            "icon2": "fa-phone",
+            "icon3": "fa-envelope"
+          },
+          "title": "SMI Advisory Services<br>",
+          "text1": "234 Wall Street<br>East Newyork, NY 20001",
+          "text2": "1800 1234 5678<br>(080) 1234 56789",
+          "text3": "info@website.com<br>Support@website.com",
+          "icons": "<a class=\"fa\" data-app-btn=\"true\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"><i class=\"fa fa-linkedin\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"><i class=\"fa fa-facebook\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"fa fa-twitter\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Dribble\" target=\"_blank\" href=\"https://dribbble.com/Mobirise\"><i class=\"fa fa-dribbble\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"fa fa-google-plus\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"fa fa-instagram\"></i></a> ",
+          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-section--relative\" style=\"background-color: rgb(219, 219, 219);\">\n    <footer style=\"padding-top: 80px; padding-bottom: 60px;\">\n    \n        <div class=\"container\">\n            <ul class=\"list-inline\">\n                <li>\n                    <h1 class=\"footer-logo mbr-title-font mbr-editable-content\" code-editable-id=\"3643\">SMI Advisory Services<br></h1>\n                </li>\n                <li>\n                    <div class=\"contact-info mbr-title-font\"> <i class=\"fa mbr-primary-color fa-map-marker\"></i><br>\n                        <div class=\"mbr-editable-content\" code-editable-id=\"3644\">PO Box 46707<div>Cincinnati, OH 45246</div></div>\n                    </div>\n                </li>\n                <li>\n                    <div class=\"contact-info mbr-title-font\"><i class=\"fa mbr-primary-color fa-phone\"></i><br>\n                        <div class=\"mbr-editable-content\" code-editable-id=\"3645\">877-SMI-FUND <br>(877-764-3863)</div>\n                    </div>\n                </li>\n                <li>\n                    <div class=\"contact-info mbr-title-font no-border\"><i class=\"fa mbr-primary-color fa-envelope\"></i><br>\n                        <div class=\"mbr-editable-content\" code-editable-id=\"3646\">info@website.com<br>Support@website.com</div>\n                    </div>\n                </li>\n                <li class=\"pull-right\">\n                    <div class=\"footer-social\"><a class=\"fa mbr-editable-button\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\" code-editable-id=\"3647\"><i class=\"fa fa-linkedin\"></i></a> <a class=\"fa mbr-editable-button\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" code-editable-id=\"3648\"><i class=\"fa fa-facebook\"></i></a> <a class=\"fa mbr-editable-button\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" code-editable-id=\"3649\"><i class=\"fa fa-twitter\"></i></a>  <a class=\"fa mbr-editable-button\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\" code-editable-id=\"3650\"><i class=\"fa fa-google-plus\"></i></a>  </div>\n                </li>\n            </ul>\n        </div>\n    </footer>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "H1 {\n\tfont-size: 17px;\n}\n",
+          "_customTemplate": true
         }
       ]
     },
@@ -231,11 +495,49 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn mbr-title-font btn-primary btn-block\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">learn more</a>",
-          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-after-navbar\" style=\"background-image: url(https://dcktxkaneetr8.cloudfront.net/smifund/privatec-screenshot-back5.jpg);\">\n    <div class=\"intro intro11 intro20\" style=\"padding-top: 150px; padding-bottom: 440px;\">\n        <div class=\"mbr-overlay\" style=\"opacity: 0.55; background-color: rgb(17, 17, 17);\"></div>\n        <div class=\"container\">\n            <div class=\"row center-content\">\n                <div class=\"col-md-10 col-md-offset-1 text-center\"><div class=\"mbr-figure\"><a href=\"index.html\"><img src=\"https://dcktxkaneetr8.cloudfront.net/smifund/smi-crown-mark-white.png\" style=\"width: 100px; margin-bottom:20px\"></a>\n                    <h3 class=\"mbr-title-font mbr-editable-content\" code-editable-id=\"1186\">SMI Private Client</h3>\n                    <p class=\"mbr-editable-content\" code-editable-id=\"1187\">Nam tellus turpis blandit et ligula vel lacinia massa sit amet minus fugit in ipsum semper euismod massa auctor magna eget nunc iaculis nunc.&nbsp;Nam tellus turpis blandit et ligula vel lacinia massa sit amet minus fugit in ipsum semper euismod massa auctor magna eget nunc iaculis nunc.Nam tellus turpis blandit et ligula vel lacinia massa sit amet minus fugit in ipsum semper euismod massa auctor magna eget nunc iaculis nunc.</p>\n\n                    <div data-form-type=\"formoid\">\n                        <div data-form-alert=\"true\">\n                            <div class=\"hide\" data-form-alert-success=\"true\">Thanks for filling out form!</div>\n                        </div>\n                        <form class=\"intro-newsletter\" action=\"https://mobirise.com/\" method=\"post\" data-form-title=\"SUBSCRIBE\">\n                            <input type=\"hidden\" value=\"wN7+2yNbojW23XVdT7ImnMCjBFTyOxMFQAPkpTctr2HJgZKTdUFO53Ch2GHsf3NhtL2Xy4cetFjXQT7alUoaV7AxPI6U2pDcttZz8Ip1QuJvyWn/han/pAvCHsVd0hlG\" data-form-email=\"true\">\n                            <div class=\"row\">\n                                <div class=\"col-md-7 col-sm-6 no-padding\">\n                                    <input class=\"e-mail\" name=\"email\" id=\"eaddress\" type=\"email\" placeholder=\"Email Address here\" data-form-field=\"Email\">\n                                </div>\n                                <div class=\"col-md-5 col-sm-6 no-padding\">\n                                    <div><button type=\"submit\" class=\"btn mbr-title-font btn-primary btn-block mbr-editable-button\" code-editable-id=\"1188\">learn more</button></div>\n                                </div>\n                            </div>\n                        </form>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</div></section>",
+          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-after-navbar\" style=\"background-image: url(https://dcktxkaneetr8.cloudfront.net/smifund/privatec-screenshot-back5.jpg);\">\n    <div class=\"intro intro11 intro20\" style=\"padding-top: 150px; padding-bottom: 440px;\">\n        <div class=\"mbr-overlay\" style=\"opacity: 0.55; background-color: rgb(17, 17, 17);\"></div>\n        <div class=\"container\">\n            <div class=\"row center-content\">\n                <div class=\"col-md-10 col-md-offset-1 text-center\"><div class=\"mbr-figure\"><a href=\"index.html\"><img src=\"https://dcktxkaneetr8.cloudfront.net/smifund/smi-crown-mark-white.png\" style=\"width: 100px; margin-bottom:20px\"></a>\n                    <h3 class=\"mbr-title-font mbr-editable-content\" code-editable-id=\"1247\">SMI Private Client</h3>\n                    <p class=\"mbr-editable-content\" code-editable-id=\"1248\">Nam tellus turpis blandit et ligula vel lacinia massa sit amet minus fugit in ipsum semper euismod massa auctor magna eget nunc iaculis nunc.&nbsp;Nam tellus turpis blandit et ligula vel lacinia massa sit amet minus fugit in ipsum semper euismod massa auctor magna eget nunc iaculis nunc.Nam tellus turpis blandit et ligula vel lacinia massa sit amet minus fugit in ipsum semper euismod massa auctor magna eget nunc iaculis nunc.</p>\n\n                    <div data-form-type=\"formoid\">\n                        <div data-form-alert=\"true\">\n                            <div class=\"hide\" data-form-alert-success=\"true\">Thanks for filling out form!</div>\n                        </div>\n                        <form class=\"intro-newsletter\" action=\"https://mobirise.com/\" method=\"post\" data-form-title=\"SUBSCRIBE\">\n                            <input type=\"hidden\" value=\"wN7+2yNbojW23XVdT7ImnMCjBFTyOxMFQAPkpTctr2HJgZKTdUFO53Ch2GHsf3NhtL2Xy4cetFjXQT7alUoaV7AxPI6U2pDcttZz8Ip1QuJvyWn/han/pAvCHsVd0hlG\" data-form-email=\"true\">\n                            <div class=\"row\">\n                                <div class=\"col-md-7 col-sm-6 no-padding\">\n                                    <input class=\"e-mail\" name=\"email\" id=\"eaddress\" type=\"email\" placeholder=\"Email Address here\" data-form-field=\"Email\">\n                                </div>\n                                <div class=\"col-md-5 col-sm-6 no-padding\">\n                                    <div><button type=\"submit\" class=\"btn mbr-title-font btn-primary btn-block mbr-editable-button\" code-editable-id=\"1249\">learn more</button></div>\n                                </div>\n                            </div>\n                        </form>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</div></section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "",
           "_customTemplate": true
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "iconsColor": "@primaryColor",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "bgColor": "#dbdbdb",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.75,
+            "overlayColor": "#151515",
+            "icon1": "fa-map-marker",
+            "icon2": "fa-phone",
+            "icon3": "fa-envelope"
+          },
+          "title": "SMI Advisory Services<br>",
+          "text1": "234 Wall Street<br>East Newyork, NY 20001",
+          "text2": "1800 1234 5678<br>(080) 1234 56789",
+          "text3": "info@website.com<br>Support@website.com",
+          "icons": "<a class=\"fa\" data-app-btn=\"true\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"><i class=\"fa fa-linkedin\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"><i class=\"fa fa-facebook\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"fa fa-twitter\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Dribble\" target=\"_blank\" href=\"https://dribbble.com/Mobirise\"><i class=\"fa fa-dribbble\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"fa fa-google-plus\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"fa fa-instagram\"></i></a> ",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-section--relative\" style=\"background-color: rgb(219, 219, 219);\">\n    <footer style=\"padding-top: 80px; padding-bottom: 60px;\">\n    \n        <div class=\"container\">\n            <ul class=\"list-inline\">\n                <li>\n                    <h1 class=\"footer-logo mbr-title-font mbr-editable-content\" code-editable-id=\"3643\">SMI Advisory Services<br></h1>\n                </li>\n                <li>\n                    <div class=\"contact-info mbr-title-font\"> <i class=\"fa mbr-primary-color fa-map-marker\"></i><br>\n                        <div class=\"mbr-editable-content\" code-editable-id=\"3644\">PO Box 46707<div>Cincinnati, OH 45246</div></div>\n                    </div>\n                </li>\n                <li>\n                    <div class=\"contact-info mbr-title-font\"><i class=\"fa mbr-primary-color fa-phone\"></i><br>\n                        <div class=\"mbr-editable-content\" code-editable-id=\"3645\">877-SMI-FUND <br>(877-764-3863)</div>\n                    </div>\n                </li>\n                <li>\n                    <div class=\"contact-info mbr-title-font no-border\"><i class=\"fa mbr-primary-color fa-envelope\"></i><br>\n                        <div class=\"mbr-editable-content\" code-editable-id=\"3646\">info@website.com<br>Support@website.com</div>\n                    </div>\n                </li>\n                <li class=\"pull-right\">\n                    <div class=\"footer-social\"><a class=\"fa mbr-editable-button\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\" code-editable-id=\"3647\"><i class=\"fa fa-linkedin\"></i></a> <a class=\"fa mbr-editable-button\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" code-editable-id=\"3648\"><i class=\"fa fa-facebook\"></i></a> <a class=\"fa mbr-editable-button\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" code-editable-id=\"3649\"><i class=\"fa fa-twitter\"></i></a>  <a class=\"fa mbr-editable-button\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\" code-editable-id=\"3650\"><i class=\"fa fa-google-plus\"></i></a>  </div>\n                </li>\n            </ul>\n        </div>\n    </footer>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "H1 {\n\tfont-size: 17px;\n}\n",
+          "_customTemplate": true,
+          "_anchor": "contacts1-20"
         }
       ]
     },
@@ -283,12 +585,223 @@
             }
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn mbr-title-font btn-primary btn-block\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">learn more</a>",
-          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-after-navbar\" style=\"background-image: url(https://dcktxkaneetr8.cloudfront.net/smifund/privatec-screenshot-back3.jpg);\">\n    <div class=\"intro intro11 intro20\" style=\"padding-top: 150px; padding-bottom: 440px;\">\n        <div class=\"mbr-overlay\" style=\"opacity: 0.55; background-color: rgb(17, 17, 17);\"></div>\n        <div class=\"container\">\n            <div class=\"row center-content\">\n                <div class=\"col-md-10 col-md-offset-1 text-center\"><div class=\"mbr-figure\"><a href=\"index.html\"><img src=\"https://dcktxkaneetr8.cloudfront.net/smifund/smi-crown-mark-white.png\" style=\"width: 100px; margin-bottom:20px\"></a>\n                    <h3 class=\"mbr-title-font mbr-editable-content\" code-editable-id=\"1168\">SMI Fund</h3>\n                    <p class=\"mbr-editable-content\" code-editable-id=\"1169\">Nam tellus turpis blandit et ligula vel lacinia massa sit amet minus fugit in ipsum semper euismod massa auctor magna eget nunc iaculis nunc.&nbsp;Nam tellus turpis blandit et ligula vel lacinia massa sit amet minus fugit in ipsum semper euismod massa auctor magna eget nunc iaculis nunc.Nam tellus turpis blandit et ligula vel lacinia massa sit amet minus fugit in ipsum semper euismod massa auctor magna eget nunc iaculis nunc.</p>\n\n                 \n                       <div class=\"space20\"></div>\n                    <div class=\"dual-btn\"><a href=\"#\" class=\"btn mbr-title-font btn-lg btn-primary mbr-editable-button\" code-editable-id=\"1170\">visit smifunds.com</a></div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-after-navbar\" style=\"background-image: url(https://dcktxkaneetr8.cloudfront.net/smifund/privatec-screenshot-back3.jpg);\">\n    <div class=\"intro intro11 intro20\" style=\"padding-top: 150px; padding-bottom: 440px;\">\n        <div class=\"mbr-overlay\" style=\"opacity: 0.55; background-color: rgb(17, 17, 17);\"></div>\n        <div class=\"container\">\n            <div class=\"row center-content\">\n                <div class=\"col-md-10 col-md-offset-1 text-center\"><div class=\"mbr-figure\"><a href=\"index.html\"><img src=\"https://dcktxkaneetr8.cloudfront.net/smifund/smi-crown-mark-white.png\" style=\"width: 100px; margin-bottom:20px\"></a>\n                    <h3 class=\"mbr-title-font mbr-editable-content\" code-editable-id=\"1308\">SMI Fund</h3>\n                    <p class=\"mbr-editable-content\" code-editable-id=\"1309\">Nam tellus turpis blandit et ligula vel lacinia massa sit amet minus fugit in ipsum semper euismod massa auctor magna eget nunc iaculis nunc.&nbsp;Nam tellus turpis blandit et ligula vel lacinia massa sit amet minus fugit in ipsum semper euismod massa auctor magna eget nunc iaculis nunc.Nam tellus turpis blandit et ligula vel lacinia massa sit amet minus fugit in ipsum semper euismod massa auctor magna eget nunc iaculis nunc.</p>\n\n                 \n                       <div class=\"space20\"></div>\n                    <div class=\"dual-btn\"><a href=\"#\" class=\"btn mbr-title-font btn-lg btn-primary mbr-editable-button\" code-editable-id=\"1310\">visit smifunds.com</a></div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "",
           "_customTemplate": true,
           "_anchor": "header13-1c"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "iconsColor": "@primaryColor",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "bgColor": "#dbdbdb",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.75,
+            "overlayColor": "#151515",
+            "icon1": "fa-map-marker",
+            "icon2": "fa-phone",
+            "icon3": "fa-envelope"
+          },
+          "title": "SMI Advisory Services<br>",
+          "text1": "234 Wall Street<br>East Newyork, NY 20001",
+          "text2": "1800 1234 5678<br>(080) 1234 56789",
+          "text3": "info@website.com<br>Support@website.com",
+          "icons": "<a class=\"fa\" data-app-btn=\"true\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"><i class=\"fa fa-linkedin\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"><i class=\"fa fa-facebook\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"fa fa-twitter\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Dribble\" target=\"_blank\" href=\"https://dribbble.com/Mobirise\"><i class=\"fa fa-dribbble\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"fa fa-google-plus\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"fa fa-instagram\"></i></a> ",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-section--relative\" style=\"background-color: rgb(219, 219, 219);\">\n    <footer style=\"padding-top: 80px; padding-bottom: 60px;\">\n    \n        <div class=\"container\">\n            <ul class=\"list-inline\">\n                <li>\n                    <h1 class=\"footer-logo mbr-title-font mbr-editable-content\" code-editable-id=\"3643\">SMI Advisory Services<br></h1>\n                </li>\n                <li>\n                    <div class=\"contact-info mbr-title-font\"> <i class=\"fa mbr-primary-color fa-map-marker\"></i><br>\n                        <div class=\"mbr-editable-content\" code-editable-id=\"3644\">PO Box 46707<div>Cincinnati, OH 45246</div></div>\n                    </div>\n                </li>\n                <li>\n                    <div class=\"contact-info mbr-title-font\"><i class=\"fa mbr-primary-color fa-phone\"></i><br>\n                        <div class=\"mbr-editable-content\" code-editable-id=\"3645\">877-SMI-FUND <br>(877-764-3863)</div>\n                    </div>\n                </li>\n                <li>\n                    <div class=\"contact-info mbr-title-font no-border\"><i class=\"fa mbr-primary-color fa-envelope\"></i><br>\n                        <div class=\"mbr-editable-content\" code-editable-id=\"3646\">info@website.com<br>Support@website.com</div>\n                    </div>\n                </li>\n                <li class=\"pull-right\">\n                    <div class=\"footer-social\"><a class=\"fa mbr-editable-button\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\" code-editable-id=\"3647\"><i class=\"fa fa-linkedin\"></i></a> <a class=\"fa mbr-editable-button\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" code-editable-id=\"3648\"><i class=\"fa fa-facebook\"></i></a> <a class=\"fa mbr-editable-button\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" code-editable-id=\"3649\"><i class=\"fa fa-twitter\"></i></a>  <a class=\"fa mbr-editable-button\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\" code-editable-id=\"3650\"><i class=\"fa fa-google-plus\"></i></a>  </div>\n                </li>\n            </ul>\n        </div>\n    </footer>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "H1 {\n\tfont-size: 17px;\n}\n",
+          "_customTemplate": true,
+          "_anchor": "contacts1-20"
+        }
+      ]
+    },
+    "purchaseform.html": {
+      "settings": {},
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showForm": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "bgImage": "file:///Users/jonrenner/Library/Application%20Support/Mobirise.com/Mobirise/projectData/full-unsplash-photo-1431605695381-f4a9c3cdd150-2000x1333_5.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#2d2d2d",
+            "overlayOpacity": "0.7",
+            "showIcons": false,
+            "iconsColor": "#fff",
+            "icon1": "fa-bolt",
+            "icon2": "fa-magnet"
+          },
+          "title": "APPLY NOW!",
+          "title1": "SMI PLAN",
+          "title2": "ATTRACT VISITORS",
+          "title3": "MAGNET ICON",
+          "text1": "Lorem ipsum dolor sit amet consec tetur elit amet voluptas accusamus dolorum veritatis ea odio dolor emque.",
+          "text2": "Lorem ipsum dolor sit amet consec tetur elit amet voluptas accusamus dolorum veritatis ea odio dolor emque.",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn mbr-title-font btn-block btn-lg btn-primary\">GET FREE TRIAL</a>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "jrenner@soundmindinvesting.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "First Name",
+                "visible": true,
+                "customTitle": "First Name"
+              },
+              "lastName": {
+                "title": "Last Name",
+                "visible": true,
+                "customTitle": "Last Name"
+              },
+              "email": {
+                "title": "Email Address",
+                "visible": true,
+                "customTitle": "Email Address"
+              },
+              "phone": {
+                "title": "Phone No.",
+                "visible": true,
+                "customTitle": "Phone No."
+              }
+            }
+          },
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_customHTML": "<section class=\"mbr-section--bg-adapted\" style=\"background-image: url(https://dcktxkaneetr8.cloudfront.net/smifund/beach-ariel-view-back);\">\n    <div class=\"intro intro1\" style=\"padding-top: 100px; padding-bottom: 100px;\">\n        <div class=\"mbr-overlay\" style=\"opacity: 0.7; background-color: rgb(45, 45, 45);\"></div>\n        <div class=\"container\">\n            <div class=\"row center-content\">\n                <div class=\"col-sm-5 col-md-4\">\n                           <div class=\"col-sm-12 price-styles price-one-el\" style=\"display: block;\">\n                        <div class=\"pricing__item\" data-hover=\"\">\n                            <h3 class=\"pricing__title mbr-title-font mbr-primary-color mbr-editable-content\" code-editable-id=\"3962\">SMI PLanning Tool</h3>\n                        \n                            <div class=\"pricing__price mbr-title-font\">\n                                <span class=\"pricing__currency mbr-editable-content\" code-editable-id=\"3963\">$</span>\n                                <span class=\"mbr-editable-content\" code-editable-id=\"3964\">1,200</span>\n                                <span class=\"pricing__period mbr-editable-content\" code-editable-id=\"3965\">/ one time fee</span>\n                            </div>\n                            <div class=\"mbr-editable-content\" code-editable-id=\"3966\"><ul class=\"pricing__feature-list mbr-text-font\"><li class=\"pricing__feature\">1 GB of space</li><li class=\"pricing__feature\">Support at $25/hour</li><li class=\"pricing__feature\">Small social media</li></ul></div>\n                            \n                        </div>\n                    </div></div>\n                \n\n                <div class=\"col-sm-7 col-md-push-1\"><div class=\"mbr-figure\"><a href=\"index.html\"><img src=\"https://dcktxkaneetr8.cloudfront.net/smifund/smi-crown-mark-white.png\" style=\"width: 100px; margin-bottom:20px\"></a>\n                    <h2 class=\"mbr-title-font mbr-editable-content\" code-editable-id=\"3967\">Purchase SMI Plan</h2>\n                    <div class=\"row\">\n                        <div class=\"col-md-10\">\n                            <div class=\"intro-box\">\n                                \n                                <div>\n                                  \n                                    <p class=\"mbr-editable-content\" code-editable-id=\"3968\">Complete the inquiry form below and a SMI Advisroy Services representative will get in touch with you right away about how to purchase SMI Plan.</p>\n                                </div>\n                               \n                                   \n                            </div>\n                            \n                        </div>\n                    </div>\n                </div>\n            </div>\n        </div>\n    </div>\n</div></section>",
+          "_customCSS": "@import url(undefined);\n.intro-box h4 {\n\ttext-align: left;\n}\n.intro-box div {\n    margin-left: 0px;\n}",
+          "_customTemplate": true,
+          "_anchor": "header1-22",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
+        },
+        {
+          "title": "CONTACT FORM",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-1w",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "bgColor": "#768995",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#151515"
+          },
+          "form": {
+            "action": "jrenner@soundmindinvesting.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Your Name here*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email Address here*"
+              },
+              "subject": {
+                "title": "subject",
+                "visible": true,
+                "customTitle": "Purchase SMI Plan"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "I would like more information about purchasing the SMI Plan tool.."
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn mbr-title-font btn-default btn-ico\">Send Message<i class=\"fa fa-paper-plane-o\"></i></a>",
+          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-section--relative\" style=\"background-color: rgb(118, 137, 149);\">\n    <div class=\"contact-form\" style=\"padding-top: 100px; padding-bottom: 100px;\">\n        \n        <div class=\"container\">\n            <div class=\"row\">\n                <div class=\"col-md-10 col-md-offset-1\" data-form-type=\"formoid\">\n\n                    <div data-form-alert=\"true\">\n                        <div class=\"hide\" data-form-alert-success=\"true\">Thanks for filling out form!</div>\n                    </div>\n                    <form class=\"positioned\" id=\"contactForm\" action=\"https://mobirise.com/\" method=\"post\" data-form-title=\"CONTACT FORM\">\n                        <input type=\"hidden\" value=\"bfOj0Qn8dpNGfREV0VholhkXinaokxwu0M8IzEEW6zA/YJWNEQq9tltDw/py1cMyh01tW6Vpnav8NgyZKNJqCb9s1h2Tw4vWrMILTHjqJ+D24xcVStW+RX9iWQIEyfpB\" data-form-email=\"true\">\n\n                        <div class=\"row\">\n                            <div class=\"col-md-4 col-sm-4\">\n                                <div class=\"form-group\">\n                                    <input type=\"text\" class=\"form-control\" name=\"name\" required=\"\" placeholder=\"Your Name here*\" data-form-field=\"Name\">\n                                </div>\n                            </div>\n                            <div class=\"col-md-4 col-sm-4\">\n                                <div class=\"form-group\">\n                                    <input type=\"email\" class=\"form-control\" name=\"email\" required=\"\" placeholder=\"Email Address here*\" data-form-field=\"Email\">\n                                </div>\n                            </div> <div class=\"col-md-4 col-sm-4\">\n                                <div class=\"form-group\">\n                                    <input type=\"phone\" class=\"form-control\" name=\"phone\" required=\"\" placeholder=\"Phone Number Here*\" data-form-field=\"Phone\">\n                                </div>\n                            </div>\n                        </div>\n\n                        <div class=\"form-group\">\n                            <input type=\"tel\" class=\"form-control\" name=\"subject\" placeholder=\"Purchase SMI Plan\" data-form-field=\"subject\">\n                        </div>\n                        <textarea class=\"form-control\" name=\"message\" rows=\"7\" placeholder=\"I would like more information about purchasing the SMI Plan tool..\" data-form-field=\"Message\"></textarea>\n                        <div class=\"submitBtn\"><button type=\"submit\" class=\"btn mbr-title-font btn-default btn-ico mbr-editable-button\" code-editable-id=\"3927\">Send Message<i class=\"fa fa-paper-plane-o\"></i></button></div>\n                    </form>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "iconsColor": "@primaryColor",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "bgColor": "#dbdbdb",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.75,
+            "overlayColor": "#151515",
+            "icon1": "fa-map-marker",
+            "icon2": "fa-phone",
+            "icon3": "fa-envelope"
+          },
+          "title": "SMI Advisory Services<br>",
+          "text1": "234 Wall Street<br>East Newyork, NY 20001",
+          "text2": "1800 1234 5678<br>(080) 1234 56789",
+          "text3": "info@website.com<br>Support@website.com",
+          "icons": "<a class=\"fa\" data-app-btn=\"true\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"><i class=\"fa fa-linkedin\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrLinkColor\"><i class=\"fa fa-facebook\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"fa fa-twitter\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Dribble\" target=\"_blank\" href=\"https://dribbble.com/Mobirise\"><i class=\"fa fa-dribbble\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"fa fa-google-plus\"></i></a> <a class=\"fa\" data-app-btn=\"true\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"fa fa-instagram\"></i></a> ",
+          "alias": "unicore/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_customHTML": "<section class=\"mbr-section--bg-adapted mbr-section--relative\" style=\"background-color: rgb(219, 219, 219);\">\n    <footer style=\"padding-top: 80px; padding-bottom: 60px;\">\n    \n        <div class=\"container\">\n            <ul class=\"list-inline\">\n                <li>\n                    <h1 class=\"footer-logo mbr-title-font mbr-editable-content\" code-editable-id=\"3643\">SMI Advisory Services<br></h1>\n                </li>\n                <li>\n                    <div class=\"contact-info mbr-title-font\"> <i class=\"fa mbr-primary-color fa-map-marker\"></i><br>\n                        <div class=\"mbr-editable-content\" code-editable-id=\"3644\">PO Box 46707<div>Cincinnati, OH 45246</div></div>\n                    </div>\n                </li>\n                <li>\n                    <div class=\"contact-info mbr-title-font\"><i class=\"fa mbr-primary-color fa-phone\"></i><br>\n                        <div class=\"mbr-editable-content\" code-editable-id=\"3645\">877-SMI-FUND <br>(877-764-3863)</div>\n                    </div>\n                </li>\n                <li>\n                    <div class=\"contact-info mbr-title-font no-border\"><i class=\"fa mbr-primary-color fa-envelope\"></i><br>\n                        <div class=\"mbr-editable-content\" code-editable-id=\"3646\">info@website.com<br>Support@website.com</div>\n                    </div>\n                </li>\n                <li class=\"pull-right\">\n                    <div class=\"footer-social\"><a class=\"fa mbr-editable-button\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\" code-editable-id=\"3647\"><i class=\"fa fa-linkedin\"></i></a> <a class=\"fa mbr-editable-button\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" code-editable-id=\"3648\"><i class=\"fa fa-facebook\"></i></a> <a class=\"fa mbr-editable-button\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" code-editable-id=\"3649\"><i class=\"fa fa-twitter\"></i></a>  <a class=\"fa mbr-editable-button\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\" code-editable-id=\"3650\"><i class=\"fa fa-google-plus\"></i></a>  </div>\n                </li>\n            </ul>\n        </div>\n    </footer>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "H1 {\n\tfont-size: 17px;\n}\n",
+          "_customTemplate": true,
+          "_anchor": "contacts1-20"
         }
       ]
     }
